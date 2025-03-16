@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-sum": {
+      "command": "node",
+      "args": ["index.js"]
+    }
+  }
+}
